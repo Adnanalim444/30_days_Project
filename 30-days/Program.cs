@@ -1,6 +1,7 @@
 
 
-using _30_days.Data;
+
+using _30_days.DataAccessLayer;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

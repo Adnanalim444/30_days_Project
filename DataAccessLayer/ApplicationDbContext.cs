@@ -1,7 +1,7 @@
 ﻿using _30_days.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace _30_days.Data
+namespace _30_days.DataAccessLayer
 {
     public class ApplicationDbContext : DbContext
     {
